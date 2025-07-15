@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "54902602446",
+    "project_id": "secondary-phone-number-app",
+    "storage_bucket": "secondary-phone-number-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54902602446:android:25cbf22db5c63c592eee9f",
+        "android_client_info": {
+          "package_name": "com.yvos.secondary_phone_number_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54902602446-jjsruvnuielcumve01uo7fgmihdmuqpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yvos.secondary_phone_number_app",
+            "certificate_hash": "9edf092df6cf316b5773446901e0f8fb24fb68f6"
+          }
+        },
+        {
+          "client_id": "54902602446-hjgdj33k64ql9ubq4olukjisgsbsq76v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYc2PKFo3U60ct9cUFmN9DD3AQC7r0x78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54902602446-hjgdj33k64ql9ubq4olukjisgsbsq76v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54902602446-u945snab7lul5qo0n5fq2bqn5pm69i3o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.primeorganize.secondnumber"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
